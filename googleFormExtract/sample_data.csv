@@ -1,0 +1,13 @@
+Company,email_id,Work_requirement
+ABC,ABC@gmail.com,"Java, NodeJS, MernStack, Javascript"
+CDE,CDE@gmail.com,"NodeJS, C++, Dart, MongoDB, MernStack"
+EFG,EFG@gmail.com,"Java,C++,Javascript, Flutter,  Wordpress"
+GHI,GHI@gmail.com,"NodeJS,Dart,MongoDB,Flutter,MernStack"
+JGL,JGL@gmail.com,"Java,Javascript, Flutter, Python,  Wordpress"
+MNO,MNO@gmail.com,"NodeJS,C++,MongoDB, Python, MernStack"
+OPQ,OPQ@gmail.com,"Java,Dart, Flutter, Wordpress, MernStack"
+QRS,QRS@gmail.com,"NodeJS,Dart,Python, Wordpress"
+STU,STU@gmail.com,"Java,C++,MongoDB, Flutter, MernStack"
+UVW,UVW@gmail.com,"NodeJS,Javascript, Python,  Wordpress"
+WXY,WXY@gmail.com,"Java,Dart,MongoDB, Flutter, MernStack"
+YZA,YZA@gmail.com,"C++,Javascript,Dart, MongoDB,  Wordpress"
